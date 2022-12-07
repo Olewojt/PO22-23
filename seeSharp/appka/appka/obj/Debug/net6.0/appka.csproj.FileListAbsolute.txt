@@ -1,0 +1,15 @@
+C:\Users\student.PC-107-03\Documents\Rok2\SeeSharp\appka\appka\bin\Debug\net6.0\appka.exe
+C:\Users\student.PC-107-03\Documents\Rok2\SeeSharp\appka\appka\bin\Debug\net6.0\appka.deps.json
+C:\Users\student.PC-107-03\Documents\Rok2\SeeSharp\appka\appka\bin\Debug\net6.0\appka.runtimeconfig.json
+C:\Users\student.PC-107-03\Documents\Rok2\SeeSharp\appka\appka\bin\Debug\net6.0\appka.dll
+C:\Users\student.PC-107-03\Documents\Rok2\SeeSharp\appka\appka\bin\Debug\net6.0\appka.pdb
+C:\Users\student.PC-107-03\Documents\Rok2\SeeSharp\appka\appka\obj\Debug\net6.0\appka.csproj.AssemblyReference.cache
+C:\Users\student.PC-107-03\Documents\Rok2\SeeSharp\appka\appka\obj\Debug\net6.0\appka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student.PC-107-03\Documents\Rok2\SeeSharp\appka\appka\obj\Debug\net6.0\appka.AssemblyInfoInputs.cache
+C:\Users\student.PC-107-03\Documents\Rok2\SeeSharp\appka\appka\obj\Debug\net6.0\appka.AssemblyInfo.cs
+C:\Users\student.PC-107-03\Documents\Rok2\SeeSharp\appka\appka\obj\Debug\net6.0\appka.csproj.CoreCompileInputs.cache
+C:\Users\student.PC-107-03\Documents\Rok2\SeeSharp\appka\appka\obj\Debug\net6.0\appka.dll
+C:\Users\student.PC-107-03\Documents\Rok2\SeeSharp\appka\appka\obj\Debug\net6.0\refint\appka.dll
+C:\Users\student.PC-107-03\Documents\Rok2\SeeSharp\appka\appka\obj\Debug\net6.0\appka.pdb
+C:\Users\student.PC-107-03\Documents\Rok2\SeeSharp\appka\appka\obj\Debug\net6.0\appka.genruntimeconfig.cache
+C:\Users\student.PC-107-03\Documents\Rok2\SeeSharp\appka\appka\obj\Debug\net6.0\ref\appka.dll
